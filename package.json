@@ -11,7 +11,7 @@
     "ant-design-vue": "^1.4.8",
     "axios": "^0.19.1",
     "core-js": "^3.6.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nprogress": "^0.2.0",
     "vue": "^2.6.11",
     "vue-ls": "^3.2.1",
